@@ -22,7 +22,7 @@ slot-machine-game/
 
 ▶️ How to Run the Game
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/slot-machine-game.git
+git clone https://github.com/santh0sh00/Slot-Machine-Game.git
 
 2️⃣ Navigate to Project Folder
 cd slot-machine-game
