@@ -46,7 +46,9 @@ Current Balance: ₹1000
 Enter bet amount: 100
 Spinning...
 
-| 🍒 | 🍒 | 🍒 |
+| A | A | A | or 
+| B | B | B | or
+| C | C | C |
 
 Congratulations! You won ₹500 🎉
 New Balance: ₹1500
